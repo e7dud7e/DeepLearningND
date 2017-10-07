@@ -35,6 +35,11 @@ These projects use Python 2 or 3 with TensorFlow 1.0 or higher.  See the individ
 
 - Built a recurrent neural network to generate text that resembles tv scripts from the Simpsons TV show.
 
+## RNN for Sentiment Analysis
+- Built a recurrent neural network of multiple LSTM (long-short-term memory) cells.
+- Used an embedding layer to convert words to vectors.
+- Used GloVe (global vector of words) to set pre-trained word vectors in embedding layer.
+
 ## Seq2Seq RNN for language translation
 
 ![rnn translation][img_rnn_translate]
